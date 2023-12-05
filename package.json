@@ -8,6 +8,7 @@
     "migrate": "bun run src/db/migrate.ts"
   },
   "dependencies": {
+    "@grotto/logysia": "^0.0.5",
     "@planetscale/database": "^1.11.0",
     "drizzle-orm": "^0.29.1",
     "elysia": "latest",
